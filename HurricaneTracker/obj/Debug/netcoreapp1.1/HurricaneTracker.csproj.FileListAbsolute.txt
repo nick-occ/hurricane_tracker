@@ -1,0 +1,9 @@
+c:\users\nicho\onedrive\documents\visual studio 2017\Projects\HurricaneTracker\HurricaneTracker\bin\Debug\netcoreapp1.1\HurricaneTracker.deps.json
+c:\users\nicho\onedrive\documents\visual studio 2017\Projects\HurricaneTracker\HurricaneTracker\bin\Debug\netcoreapp1.1\HurricaneTracker.runtimeconfig.json
+c:\users\nicho\onedrive\documents\visual studio 2017\Projects\HurricaneTracker\HurricaneTracker\bin\Debug\netcoreapp1.1\HurricaneTracker.runtimeconfig.dev.json
+c:\users\nicho\onedrive\documents\visual studio 2017\Projects\HurricaneTracker\HurricaneTracker\bin\Debug\netcoreapp1.1\HurricaneTracker.dll
+c:\users\nicho\onedrive\documents\visual studio 2017\Projects\HurricaneTracker\HurricaneTracker\bin\Debug\netcoreapp1.1\HurricaneTracker.pdb
+c:\users\nicho\onedrive\documents\visual studio 2017\Projects\HurricaneTracker\HurricaneTracker\obj\Debug\netcoreapp1.1\HurricaneTracker.csprojResolveAssemblyReference.cache
+c:\users\nicho\onedrive\documents\visual studio 2017\Projects\HurricaneTracker\HurricaneTracker\obj\Debug\netcoreapp1.1\HurricaneTracker.AssemblyInfo.cs
+c:\users\nicho\onedrive\documents\visual studio 2017\Projects\HurricaneTracker\HurricaneTracker\obj\Debug\netcoreapp1.1\HurricaneTracker.dll
+c:\users\nicho\onedrive\documents\visual studio 2017\Projects\HurricaneTracker\HurricaneTracker\obj\Debug\netcoreapp1.1\HurricaneTracker.pdb

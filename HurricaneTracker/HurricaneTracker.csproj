@@ -1,0 +1,49 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <PackageTargetFallback>$(PackageTargetFallback);portable-net45+win8+wp8+wpa81;</PackageTargetFallback>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="wwwroot\css\jQRangeSlider\classic-min.css" />
+    <Content Include="wwwroot\css\jQRangeSlider\classic.css" />
+    <Content Include="wwwroot\css\jQRangeSlider\icons-classic\label.png" />
+    <Content Include="wwwroot\css\jQRangeSlider\icons-classic\resultset_next.png" />
+    <Content Include="wwwroot\css\jQRangeSlider\icons-classic\resultset_previous.png" />
+    <Content Include="wwwroot\css\jQRangeSlider\iThing-min.css" />
+    <Content Include="wwwroot\css\jQRangeSlider\iThing.css" />
+    <Content Include="wwwroot\css\jquery-ui.min.css" />
+    <Content Include="wwwroot\js\hurricanes.js" />
+    <Content Include="wwwroot\js\jQRangeSlider\jQAllRangeSliders-min.js" />
+    <Content Include="wwwroot\js\jQRangeSlider\jQAllRangeSliders-withRuler-min.js" />
+    <Content Include="wwwroot\js\jQRangeSlider\jQDateRangeSlider-min.js" />
+    <Content Include="wwwroot\js\jQRangeSlider\jQDateRangeSlider-withRuler-min.js" />
+    <Content Include="wwwroot\js\jQRangeSlider\jQEditRangeSlider-min.js" />
+    <Content Include="wwwroot\js\jQRangeSlider\jQEditRangeSlider-withRuler-min.js" />
+    <Content Include="wwwroot\js\jQRangeSlider\jQRangeSlider-min.js" />
+    <Content Include="wwwroot\js\jQRangeSlider\jQRangeSlider-withRuler-min.js" />
+    <Content Include="wwwroot\js\jquery-ui.min.js" />
+    <Content Include="wwwroot\js\jquery.js" />
+    <Content Include="wwwroot\js\scratch.js" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore" Version="1.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="1.1.2" />
+    <PackageReference Include="Microsoft.AspNetCore.StaticFiles" Version="1.1.1" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="1.1.1" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.BrowserLink" Version="1.1.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="1.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="wwwroot\json\" />
+    <Folder Include="wwwroot\json\" />
+  </ItemGroup>
+
+</Project>
