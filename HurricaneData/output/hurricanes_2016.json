@@ -1,0 +1,723 @@
+[
+  {
+    "locations": "63",
+    "name": "NICOLE",
+    "location_data": [
+      {
+        "storm_type": "TS",
+        "date": "20161004",
+        "lat": "23.2",
+        "lon": "59.8W",
+        "time": "0600"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161004",
+        "lat": "23.5",
+        "lon": "60.3W",
+        "time": "1200"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161004",
+        "lat": "23.8",
+        "lon": "60.7W",
+        "time": "1800"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161005",
+        "lat": "24.1",
+        "lon": "61.2W",
+        "time": "0000"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161005",
+        "lat": "24.4",
+        "lon": "61.7W",
+        "time": "0600"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161005",
+        "lat": "24.7",
+        "lon": "62.5W",
+        "time": "1200"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161005",
+        "lat": "25.1",
+        "lon": "63.3W",
+        "time": "1800"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161006",
+        "lat": "25.7",
+        "lon": "63.9W",
+        "time": "0000"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161006",
+        "lat": "26.2",
+        "lon": "64.5W",
+        "time": "0600"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161006",
+        "lat": "26.7",
+        "lon": "64.8W",
+        "time": "1200"
+      },
+      {
+        "storm_type": "HU",
+        "date": "20161006",
+        "lat": "27.3",
+        "lon": "65.1W",
+        "time": "1800"
+      },
+      {
+        "storm_type": "HU",
+        "date": "20161007",
+        "lat": "27.5",
+        "lon": "65.2W",
+        "time": "0000"
+      },
+      {
+        "storm_type": "HU",
+        "date": "20161007",
+        "lat": "27.6",
+        "lon": "65.2W",
+        "time": "0600"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161007",
+        "lat": "27.6",
+        "lon": "65.2W",
+        "time": "1200"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161007",
+        "lat": "27.2",
+        "lon": "65.3W",
+        "time": "1800"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161008",
+        "lat": "26.6",
+        "lon": "65.4W",
+        "time": "0000"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161008",
+        "lat": "26.0",
+        "lon": "65.5W",
+        "time": "0600"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161008",
+        "lat": "25.5",
+        "lon": "65.6W",
+        "time": "1200"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161008",
+        "lat": "25.0",
+        "lon": "65.7W",
+        "time": "1800"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161009",
+        "lat": "24.6",
+        "lon": "65.6W",
+        "time": "0000"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161009",
+        "lat": "24.1",
+        "lon": "65.5W",
+        "time": "0600"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161009",
+        "lat": "24.0",
+        "lon": "65.4W",
+        "time": "1200"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161009",
+        "lat": "24.1",
+        "lon": "65.3W",
+        "time": "1800"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161010",
+        "lat": "24.3",
+        "lon": "65.2W",
+        "time": "0000"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161010",
+        "lat": "24.8",
+        "lon": "65.2W",
+        "time": "0600"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161010",
+        "lat": "25.4",
+        "lon": "65.2W",
+        "time": "1200"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161010",
+        "lat": "26.0",
+        "lon": "65.3W",
+        "time": "1800"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161011",
+        "lat": "26.5",
+        "lon": "65.5W",
+        "time": "0000"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161011",
+        "lat": "26.8",
+        "lon": "65.6W",
+        "time": "0600"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161011",
+        "lat": "27.1",
+        "lon": "65.8W",
+        "time": "1200"
+      },
+      {
+        "storm_type": "HU",
+        "date": "20161011",
+        "lat": "27.2",
+        "lon": "66.2W",
+        "time": "1800"
+      },
+      {
+        "storm_type": "HU",
+        "date": "20161012",
+        "lat": "27.4",
+        "lon": "66.6W",
+        "time": "0000"
+      },
+      {
+        "storm_type": "HU",
+        "date": "20161012",
+        "lat": "27.6",
+        "lon": "66.8W",
+        "time": "0600"
+      },
+      {
+        "storm_type": "HU",
+        "date": "20161012",
+        "lat": "28.0",
+        "lon": "66.9W",
+        "time": "1200"
+      },
+      {
+        "storm_type": "HU",
+        "date": "20161012",
+        "lat": "28.7",
+        "lon": "66.8W",
+        "time": "1800"
+      },
+      {
+        "storm_type": "HU",
+        "date": "20161013",
+        "lat": "29.6",
+        "lon": "66.5W",
+        "time": "0000"
+      },
+      {
+        "storm_type": "HU",
+        "date": "20161013",
+        "lat": "30.6",
+        "lon": "66.2W",
+        "time": "0600"
+      },
+      {
+        "storm_type": "HU",
+        "date": "20161013",
+        "lat": "31.6",
+        "lon": "65.3W",
+        "time": "1200"
+      },
+      {
+        "storm_type": "HU",
+        "date": "20161013",
+        "lat": "32.3",
+        "lon": "64.7W",
+        "time": "1500"
+      },
+      {
+        "storm_type": "HU",
+        "date": "20161013",
+        "lat": "33.0",
+        "lon": "63.9W",
+        "time": "1800"
+      },
+      {
+        "storm_type": "HU",
+        "date": "20161014",
+        "lat": "34.0",
+        "lon": "62.1W",
+        "time": "0000"
+      },
+      {
+        "storm_type": "HU",
+        "date": "20161014",
+        "lat": "34.9",
+        "lon": "60.5W",
+        "time": "0600"
+      },
+      {
+        "storm_type": "HU",
+        "date": "20161014",
+        "lat": "35.6",
+        "lon": "58.9W",
+        "time": "1200"
+      },
+      {
+        "storm_type": "HU",
+        "date": "20161014",
+        "lat": "36.4",
+        "lon": "56.5W",
+        "time": "1800"
+      },
+      {
+        "storm_type": "HU",
+        "date": "20161015",
+        "lat": "37.2",
+        "lon": "54.2W",
+        "time": "0000"
+      },
+      {
+        "storm_type": "HU",
+        "date": "20161015",
+        "lat": "38.0",
+        "lon": "52.6W",
+        "time": "0600"
+      },
+      {
+        "storm_type": "HU",
+        "date": "20161015",
+        "lat": "38.7",
+        "lon": "51.1W",
+        "time": "1200"
+      },
+      {
+        "storm_type": "HU",
+        "date": "20161015",
+        "lat": "39.0",
+        "lon": "49.8W",
+        "time": "1800"
+      },
+      {
+        "storm_type": "HU",
+        "date": "20161016",
+        "lat": "39.3",
+        "lon": "48.7W",
+        "time": "0000"
+      },
+      {
+        "storm_type": "HU",
+        "date": "20161016",
+        "lat": "39.1",
+        "lon": "48.0W",
+        "time": "0600"
+      },
+      {
+        "storm_type": "HU",
+        "date": "20161016",
+        "lat": "38.9",
+        "lon": "47.2W",
+        "time": "1200"
+      },
+      {
+        "storm_type": "HU",
+        "date": "20161016",
+        "lat": "39.4",
+        "lon": "46.4W",
+        "time": "1800"
+      },
+      {
+        "storm_type": "HU",
+        "date": "20161017",
+        "lat": "40.1",
+        "lon": "45.8W",
+        "time": "0000"
+      },
+      {
+        "storm_type": "HU",
+        "date": "20161017",
+        "lat": "40.6",
+        "lon": "45.5W",
+        "time": "0600"
+      },
+      {
+        "storm_type": "HU",
+        "date": "20161017",
+        "lat": "40.9",
+        "lon": "45.1W",
+        "time": "1200"
+      },
+      {
+        "storm_type": "HU",
+        "date": "20161017",
+        "lat": "41.8",
+        "lon": "43.6W",
+        "time": "1800"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161018",
+        "lat": "43.5",
+        "lon": "41.9W",
+        "time": "0000"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161018",
+        "lat": "45.6",
+        "lon": "39.7W",
+        "time": "0600"
+      },
+      {
+        "storm_type": "EX",
+        "date": "20161018",
+        "lat": "49.0",
+        "lon": "38.5W",
+        "time": "1200"
+      },
+      {
+        "storm_type": "EX",
+        "date": "20161018",
+        "lat": "53.0",
+        "lon": "38.5W",
+        "time": "1800"
+      },
+      {
+        "storm_type": "EX",
+        "date": "20161019",
+        "lat": "55.1",
+        "lon": "38.0W",
+        "time": "0000"
+      },
+      {
+        "storm_type": "EX",
+        "date": "20161019",
+        "lat": "57.0",
+        "lon": "37.0W",
+        "time": "0600"
+      },
+      {
+        "storm_type": "EX",
+        "date": "20161019",
+        "lat": "59.0",
+        "lon": "36.5W",
+        "time": "1200"
+      }
+    ],
+    "id": "AL152016"
+  },
+  {
+    "locations": "38",
+    "name": "OTTO",
+    "location_data": [
+      {
+        "storm_type": "LO",
+        "date": "20161117",
+        "lat": "12.5",
+        "lon": "80.7W",
+        "time": "1800"
+      },
+      {
+        "storm_type": "LO",
+        "date": "20161118",
+        "lat": "12.3",
+        "lon": "81.3W",
+        "time": "0000"
+      },
+      {
+        "storm_type": "LO",
+        "date": "20161118",
+        "lat": "11.8",
+        "lon": "81.7W",
+        "time": "0600"
+      },
+      {
+        "storm_type": "LO",
+        "date": "20161118",
+        "lat": "11.4",
+        "lon": "82.0W",
+        "time": "1200"
+      },
+      {
+        "storm_type": "LO",
+        "date": "20161118",
+        "lat": "11.2",
+        "lon": "82.0W",
+        "time": "1800"
+      },
+      {
+        "storm_type": "LO",
+        "date": "20161119",
+        "lat": "11.1",
+        "lon": "82.0W",
+        "time": "0000"
+      },
+      {
+        "storm_type": "LO",
+        "date": "20161119",
+        "lat": "11.0",
+        "lon": "81.8W",
+        "time": "0600"
+      },
+      {
+        "storm_type": "LO",
+        "date": "20161119",
+        "lat": "10.9",
+        "lon": "81.5W",
+        "time": "1200"
+      },
+      {
+        "storm_type": "LO",
+        "date": "20161119",
+        "lat": "10.8",
+        "lon": "81.2W",
+        "time": "1800"
+      },
+      {
+        "storm_type": "LO",
+        "date": "20161120",
+        "lat": "10.7",
+        "lon": "80.8W",
+        "time": "0000"
+      },
+      {
+        "storm_type": "LO",
+        "date": "20161120",
+        "lat": "10.7",
+        "lon": "80.4W",
+        "time": "0600"
+      },
+      {
+        "storm_type": "LO",
+        "date": "20161120",
+        "lat": "10.9",
+        "lon": "80.0W",
+        "time": "1200"
+      },
+      {
+        "storm_type": "TD",
+        "date": "20161120",
+        "lat": "11.1",
+        "lon": "79.7W",
+        "time": "1800"
+      },
+      {
+        "storm_type": "TD",
+        "date": "20161121",
+        "lat": "11.3",
+        "lon": "79.4W",
+        "time": "0000"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161121",
+        "lat": "11.3",
+        "lon": "79.3W",
+        "time": "0600"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161121",
+        "lat": "11.3",
+        "lon": "79.2W",
+        "time": "1200"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161121",
+        "lat": "11.1",
+        "lon": "79.1W",
+        "time": "1800"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161122",
+        "lat": "10.8",
+        "lon": "79.1W",
+        "time": "0000"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161122",
+        "lat": "10.6",
+        "lon": "79.1W",
+        "time": "0600"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161122",
+        "lat": "10.4",
+        "lon": "79.2W",
+        "time": "1200"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161122",
+        "lat": "10.5",
+        "lon": "79.4W",
+        "time": "1800"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161123",
+        "lat": "10.6",
+        "lon": "79.6W",
+        "time": "0000"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161123",
+        "lat": "10.8",
+        "lon": "80.0W",
+        "time": "0600"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161123",
+        "lat": "11.0",
+        "lon": "80.4W",
+        "time": "1200"
+      },
+      {
+        "storm_type": "HU",
+        "date": "20161123",
+        "lat": "11.2",
+        "lon": "81.1W",
+        "time": "1800"
+      },
+      {
+        "storm_type": "HU",
+        "date": "20161124",
+        "lat": "11.2",
+        "lon": "81.8W",
+        "time": "0000"
+      },
+      {
+        "storm_type": "HU",
+        "date": "20161124",
+        "lat": "11.1",
+        "lon": "82.4W",
+        "time": "0600"
+      },
+      {
+        "storm_type": "HU",
+        "date": "20161124",
+        "lat": "11.0",
+        "lon": "83.0W",
+        "time": "1200"
+      },
+      {
+        "storm_type": "HU",
+        "date": "20161124",
+        "lat": "11.0",
+        "lon": "83.8W",
+        "time": "1730"
+      },
+      {
+        "storm_type": "HU",
+        "date": "20161124",
+        "lat": "11.0",
+        "lon": "83.9W",
+        "time": "1800"
+      },
+      {
+        "storm_type": "HU",
+        "date": "20161125",
+        "lat": "10.9",
+        "lon": "84.9W",
+        "time": "0000"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161125",
+        "lat": "10.7",
+        "lon": "85.6W",
+        "time": "0330"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161125",
+        "lat": "10.6",
+        "lon": "86.2W",
+        "time": "0600"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161125",
+        "lat": "10.3",
+        "lon": "87.5W",
+        "time": "1200"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161125",
+        "lat": "10.0",
+        "lon": "88.8W",
+        "time": "1800"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161126",
+        "lat": "9.7",
+        "lon": "90.2W",
+        "time": "0000"
+      },
+      {
+        "storm_type": "TS",
+        "date": "20161126",
+        "lat": "9.4",
+        "lon": "91.7W",
+        "time": "0600"
+      },
+      {
+        "storm_type": "TD",
+        "date": "20161126",
+        "lat": "9.1",
+        "lon": "93.3W",
+        "time": "1200"
+      }
+    ],
+    "id": "AL162016"
+  }
+]
